@@ -1,0 +1,11 @@
+work/
+backend/target/
+backend/.idea/
+*.iml
+.env
+.env.*
+!.env.example
+*.log
+backend/.classpath
+backend/.project
+backend/.settings/
