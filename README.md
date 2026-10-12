@@ -21,6 +21,7 @@ JDK 17 이상과 JAVA_HOME을 설정하고 `backend`에서 실행합니다.
 demo는 DB 설치 없이 H2로 localhost:8080에서 실행합니다. author/student1~3/admin의 공통 비밀번호는 demo-pass이며 운영 프로필에서는 테스트 계정/Basic 로그인을 제공하지 않습니다.
 
 - 실행·인증 연동: [backend/README.md](backend/README.md)
+- Git 브랜치 / PR 제출 규칙: [docs/git-workflow.md](docs/git-workflow.md)
 - 모집글 API 명세: [backend/docs/post-api.md](backend/docs/post-api.md)
 - 모집글 비즈니스 규칙: [backend/docs/post-business-rules.md](backend/docs/post-business-rules.md)
 - 모집글 호출 예제: [backend/requests/post.http](backend/requests/post.http)
